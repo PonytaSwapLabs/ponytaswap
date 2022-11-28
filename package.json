@@ -1,0 +1,24 @@
+{
+    "name": "ponytaswap",
+    "version": "1.0.0",
+    "description": "ponytaswap contract",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "hardhat",
+        "ponytaswap"
+    ],
+    "author": "justinqp",
+    "license": "ISC",
+    "devDependencies": {
+        "@nomicfoundation/hardhat-toolbox": "^1.0.1",
+        "@nomiclabs/hardhat-web3": "^2.0.0",
+        "hardhat": "^2.10.1",
+        "web3": "^1.7.5"
+    },
+    "dependencies": {
+        "@openzeppelin/contracts": "^4.7.3"
+    }
+}
